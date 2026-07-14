@@ -1,0 +1,25 @@
+.main {
+    background-color: #f5f7fa;
+}
+
+.title {
+    text-align: center;
+    color: #0066cc;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.score-box {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #72b2c2;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.skill-box {
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #dff0d8;
+    margin: 5px;
+}
